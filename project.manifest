@@ -2189,7 +2189,7 @@
 			"md5": "0b9c9c6e535fb5a5c21774527c77def5"
 		},
 		"res/db_config/default.json": {
-			"md5": "2e2a20ec098af0eee9d156aec1785082"
+			"md5": "320ba0aa3061f5a79d21389c072fbd03"
 		},
 		"res/db_gba.txt": {
 			"md5": "8a383ce9e36ac17b569fb156ce837bc3"
@@ -4703,7 +4703,7 @@
 			"md5": "0b5d9eacea1e0514584b0c77dd5342d0"
 		},
 		"res/UI/background/kong.jpg": {
-			"md5": "c5d927ce094113c661d8bede917e3115"
+			"md5": "63ab8a5dd43096ef8174a4ad481d726a"
 		},
 		"res/UI/background/mame_bg.jpg": {
 			"md5": "61f5d471af741462de2ed85cfc74edc1"
@@ -5246,10 +5246,13 @@
 			"md5": "84c98afa8b755b0e5554936528cd88df"
 		},
 		"res/UI/StartupScene_DonkeyKong.json": {
-			"md5": "994702ca8fb1cc38f7c825db497e79dd"
+			"md5": "fa0564e1aa24df419d8552ec6c350fed"
 		},
 		"res/UI/StartupScene_EmulatorGames.json": {
 			"md5": "d04a593517fb6499a79857c4f7c8a93f"
+		},
+		"res/UI/StartupScene_EmulatorGames_NQC.json": {
+			"md5": "89155650f746549b272837ec455a7b1f"
 		},
 		"res/UI/StartupScene_FCEMU.json": {
 			"md5": "997b17233a31c760bbc2e00091addb60"
@@ -5281,8 +5284,14 @@
 		"res/UI/StartupScene_NESFC.json": {
 			"md5": "7382f48a8f0671ec11cf67fd910ac560"
 		},
+		"res/UI/StartupScene_NES_Dave0519.json": {
+			"md5": "a2e1b4139bee1876a6545e34c5333a15"
+		},
 		"res/UI/StartupScene_NostalgiaSaga.json": {
 			"md5": "e7e6bbe11cf914343ed472605d710566"
+		},
+		"res/UI/StartupScene_NostalgiaSaga_Dave0519.json": {
+			"md5": "ef4e27a4ce1baf2d55a42cc0675ac893"
 		},
 		"res/UI/StartupScene_Project64.json": {
 			"md5": "5f11400c31d5afa35d3b6a49fcc5460d"
@@ -5675,7 +5684,7 @@
 			"md5": "35bb8f53cc21d2d600101ebd3fc7ad9f"
 		},
 		"src/framework/plugins/PlatformWrapper.js": {
-			"md5": "74ec108eb31f6dfd4fc75b8a07fc6082"
+			"md5": "5a4a5ecc8e358f5b91f36ac8a3891135"
 		},
 		"src/framework/plugins/Portal.js": {
 			"md5": "e943e77a0f1944259e0dc8f1b1a766bd"
@@ -5786,7 +5795,7 @@
 			"md5": "52aa438ef7c3656b7227989246261e33"
 		},
 		"src/NES/Game/GameLayerSNK.js": {
-			"md5": "1792b74719d4aa5289cf9a799eb69f8b"
+			"md5": "231b995bda7662c1849fbb7b3316bedf"
 		},
 		"src/NES/Game/Gamepad.js": {
 			"md5": "7852f68b3c3326092e4109b15e1e1f61"
@@ -5801,7 +5810,7 @@
 			"md5": "a11857973e4c06cbc4a7a45cf9df99ce"
 		},
 		"src/NES/Home/Home.js": {
-			"md5": "3836208731281be0f5f16acaf52862bb"
+			"md5": "6517217c5cedbf4be11c904c5c01f95e"
 		},
 		"src/NES/Home/InfoRomLayer.js": {
 			"md5": "3bd93570806afec15d594547d78fed25"
@@ -5837,7 +5846,7 @@
 			"md5": "30bb43071da4cf9439a5b94f5b880da3"
 		},
 		"src/NES/Home/StartupScene.js": {
-			"md5": "1ad542f65c8fb5c0b759fa1ca186d927"
+			"md5": "db535c69505b317aca7b438ead9527ce"
 		},
 		"src/NES/initForWeb.js": {
 			"md5": "7c011e76000cab79d022a3b8cfdc2ae5"
@@ -5882,7 +5891,7 @@
 			"md5": "db152d2c52b1d698698fd93f57f7fa6c"
 		},
 		"src/NES/tracking.js": {
-			"md5": "450771bc27d6b6e27bbc52320603a5ce"
+			"md5": "395a4bfebe561bb631ce63f010c9d60f"
 		},
 		"src/NES/UI/BaseLayer.js": {
 			"md5": "ddf95796444ad3e7c9299de2f15606fd"
@@ -5903,7 +5912,7 @@
 			"md5": "da33cc8f44cb962c90e2d317ec93d173"
 		},
 		"src/resource.js": {
-			"md5": "fd06dac350a80e622e7af681735e9d54"
+			"md5": "cae9e73b6a766d75a5a54fbb8e00a988"
 		}},
 	"group" : {},
     "searchPaths" : []
